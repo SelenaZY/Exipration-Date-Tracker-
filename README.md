@@ -1,2 +1,2 @@
-# Exipration-Date-Tracker-
+# Exipration-Tracker
 Android Mobile App. See report for details
